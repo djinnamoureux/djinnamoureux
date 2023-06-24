@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @djinnamoureux
+- 👀 I’m interested in Cyber Security and Programming
+- 🌱 I’m currently learning Pentesting
+- 📫 How to reach me :
+-   Discord : djinnamoureux
+-   Mail : djinnamoureux@protonmail.com
